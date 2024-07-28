@@ -1,0 +1,12 @@
+raylib-master
+_build
+_bin
+bin
+.vscode
+.idea
+.vs
+/bin
+/build
+Makefile
+obj
+bin
